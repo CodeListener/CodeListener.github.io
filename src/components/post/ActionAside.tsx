@@ -40,8 +40,8 @@ export function ActionAside() {
         transform: 'translateY(calc(100% + 24px))',
       }}
     >
-      <ShareButton />
-      <DonateButton />
+      {/* <ShareButton /> */}
+      {/* <DonateButton /> */}
     </div>
   )
 }
