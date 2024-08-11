@@ -20,6 +20,7 @@ import rehypeKatex from 'rehype-katex'
 // https://astro.build/config
 export default defineConfig({
   site: site.url,
+  // base: "/astro-blog",
   integrations: [tailwind(), react(), sitemap()],
   markdown: {
     syntaxHighlight: false,
