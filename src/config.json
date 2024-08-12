@@ -1,9 +1,9 @@
 {
   "site": {
     "url": "https://codelistener.github.io",
-    "title": "Codelistener",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Codelistener,blog,Astro,theme,博客主题",
+    "title": "Codelistener | 一位差1px就被UI小姐姐打的前端工程师",
+    "description": "一位差1px就被UI小姐姐打的前端工程师",
+    "keywords": "Codelistener,blog,前端,后端,技术，HTML,CSS,Javascript,Typescript",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
