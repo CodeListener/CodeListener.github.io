@@ -93,7 +93,7 @@
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
   },
   "analytics": {
-    "enable": false,
+    "enable": true,
     "google": {
       "measurementId": ""
     },
@@ -103,6 +103,9 @@
     },
     "microsoftClarity": {
       "projectId": ""
+    },
+    "baidu": {
+      "projectId": "2da3843edb855505e06fb19c9a478b7c"
     }
   }
 }

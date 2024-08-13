@@ -22,6 +22,9 @@ export default defineConfig({
   site: site.url,
   // base: "/astro-blog",
   integrations: [tailwind(), react(), sitemap()],
+  server: {
+    port: 3000,
+  },
   markdown: {
     syntaxHighlight: false,
     smartypants: false,
