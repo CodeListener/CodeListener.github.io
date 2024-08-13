@@ -57,7 +57,6 @@ function BaiduAnalytics({ projectId }: { projectId: string }) {
       <script
         dangerouslySetInnerHTML={{
           __html: `
-      <script>
         var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
@@ -65,7 +64,6 @@ function BaiduAnalytics({ projectId }: { projectId: string }) {
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
         })();
-        </script>
       `,
         }}
       ></script>
